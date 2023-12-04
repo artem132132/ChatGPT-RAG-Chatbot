@@ -4,6 +4,8 @@
 
 Build a chatbot powered by LlamaIndex that augments GPT 3.5 with the contents of your own data.
 
+![Untitled](https://github.com/Niez-Gharbi/ChatGPT-RAG-Chatbot/assets/57814219/9388d58e-30b3-4f4c-a1fa-b94d94cdb36a)
+
 ## Overview of the App
 
 - Takes user queries via Streamlit's `st.chat_input` and displays both user queries and model responses with `st.chat_message`
